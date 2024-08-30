@@ -34,7 +34,7 @@ input, select, button {
 }
 
 .button-primary:hover {
-  background-color: rgb(247, 202, 0);
+  background-color: rgb(37, 0, 245);
   border: 1px solid rgb(242, 194, 0);
 }
 
